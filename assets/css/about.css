@@ -12,7 +12,9 @@ body{
 
 
 
-
+#map {
+  height: 100%;
+}
 
 .about_head {
   font-size: 30px !important;
