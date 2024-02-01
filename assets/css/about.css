@@ -8,23 +8,28 @@
 }
 body{
     font-family: 'Ubuntu', sans-serif !important;
-}
-
-
+  }
+  
+  
 
 #map {
   height: 100%;
 }
 
 .about_head {
-  font-size: 30px !important;
-  font-weight: 500;
+  font-size:20px;
+  font-weight: 600;
+  letter-spacing: 0.75px;
+  color:#292828;
+  font-family: 'Ubuntu', sans-serif !important;
   margin-top: 20px;
 }
 
 .about_content {
-  font-size: 14px !important;
+  font-size: 16px !important;
   margin-top: 20px;
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.699);
 }
 .About_map {
   width: 50%;
@@ -34,21 +39,25 @@ body{
 }
 
 .Map_con {
-  font-size: 14px !important;
+  font-size: 16px !important;
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.699);
 }
 
 .about_head3 {
-  font-size: 30px !important;
+  font-size: 20px !important;
   font-weight: 500;
   margin-top: 80px;
+  font-family: 'Ubuntu', sans-serif !important;
+ 
 }
 .about_head4 {
-  font-size: 30px !important;
+  font-size: 20px !important;
   font-weight: 500;
   margin-top: 40px;
 }
 .about_contect{
-    margin-top: 50px;
+  margin-top: 50px;
 }
 .Loction_icon {
   background: #d88e1f;
@@ -57,6 +66,12 @@ body{
   text-align: center;
   border-radius: 150px;
   margin: auto;
+}
+
+.about_li{
+  font-size: 16px !important;
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.699);
 }
 
 .Loction_icon img {
@@ -80,7 +95,7 @@ body{
 }
 .loction_con p{
     padding: 0px 20px;
-    color: black;
+    color: rgba(0, 0, 0, 0.808);
     font-weight: 500;
 }
 
